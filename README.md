@@ -1,7 +1,8 @@
-
+[![MasterHead](https://www.turing.com/blog/wp-content/uploads/2022/02/programminng-languages-for-ai-scaled.jpg)]
 <h1 align="center">Hi 👋, I'm Aditya Shah</h1>
 <h3 align="center">A machine learning and deep learning enthusiast</h3>
-img align="right" alt="Coding" width="400" src="https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif"
+<img align="right" alt="Coding" width="400" src="https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif">
+
 - 📫 How to reach me **aditya02shah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
