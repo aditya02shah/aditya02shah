@@ -2,7 +2,7 @@
 <h1 align="center">Hi,I'm Aditya Shah👋 </h1>
 <h3 align="center">A machine learning and deep learning enthusiast, always keen to learn and develop new skills</h3>
   
-## Projects
+## 💻 Projects
 - <a href="https://github.com/aditya02shah/FaceRecognition">Face Recognition</a> (App to recognize and verify faces from images or videos)
 - <a href="https://github.com/aditya02shah/LipReadingAI">Lip Reading AI</a> (End-to-End Lip Reading Model)
 - <a href="https://github.com/aditya02shah/MusicGeneration">Music Generation</a> (Generates Musical Compositions) 
