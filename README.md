@@ -1,4 +1,4 @@
-[![MasterHead](https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif)]
+ ![MasterHead](https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif)
 <h1 align="center">Hi,I'm Aditya Shah👋 </h1>
 <h3 align="center">A machine learning and deep learning enthusiast, always keen to learn and develop new skills</h3>
   
