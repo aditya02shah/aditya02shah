@@ -3,10 +3,7 @@
 <br/>
 <h4 align="center"> I enjoy making computers do stuff .</h4>
   
-
 <br/>
-
-
 
 
 <!-- <p >
@@ -18,6 +15,8 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya02shah&" alt="aditya02shah" />
 </p>
+
+<br/>
 
 <h6 align="center" style="color: black;">
   Reach me through <a href="mailto:aditya02shah@gmail.com">Mail</a>
