@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi, I'm Aditya Shah </h2>
 <br/>
-<h4 align="center"> I enjoy making computers do stuff.</h4>
+<h4 align="center"> I enjoy programming computers.</h4>
   
 <br/>
 
