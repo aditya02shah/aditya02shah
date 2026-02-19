@@ -1,6 +1,4 @@
-<h2 align="center">Hi, I'm Aditya Shah</h2>
-<br/>
-<h4 align="center">I like programming computers.</h4>
+<h4 align="center">I like systems.</h4>
 <br/>
 
 <p align="center">
