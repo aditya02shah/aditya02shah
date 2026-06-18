@@ -1,4 +1,4 @@
-<h4 align="center">I like systems.</h4>
+<h4 align="center">Less is more.</h4>
 <br/>
 
 <p align="center">
